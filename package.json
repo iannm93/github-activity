@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/median-man/github-activity#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "inquirer": "^7.1.0"
   }
 }
